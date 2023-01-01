@@ -1,5 +1,6 @@
 # DevelUp
 When you are new to the tech world all you need is a good guidance. This world full of opportunities, full of scope also requires a lot of networking. And to achieve a great sense of knowledge, one needs to practice a lot in real life projects. So what better way there is to find a coding buddy who has the same interests as you do?
+
 I made this project in a group of 4 for Tsec Hacks 2022.
 ![develup1](https://user-images.githubusercontent.com/81074236/210171877-dd3d1cb2-bcbe-4c0b-be5a-d49cc3ecee3f.jpg)
 ![develup2](https://user-images.githubusercontent.com/81074236/210171881-c5b37cc6-bad6-4c71-bdb2-b68e9991b1ee.jpg)
